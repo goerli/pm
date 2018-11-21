@@ -8,7 +8,7 @@ Görli Testnet Finances
 
 @5chdn(Afri Schoeden)
 
-@ChainSafe (Aidan Hyman)
+@ChainSafeth (Aidan Hyman)
 
 @MPtherealMVP (Maria Paula Fernández)
 
