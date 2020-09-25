@@ -6,10 +6,8 @@ Görli Testnet Finances
 
 #### Multisig Signers 
 
-@5chdn(Afri Schoeden)
+@q9f (Afri Schoedon)
 
 @ChainSafeth (Aidan Hyman)
 
 @MPtherealMVP (Maria Paula Fernández)
-
-[Proof of Twitter](https://twitter.com/5chdn/status/1063851317028954112?s=21)
